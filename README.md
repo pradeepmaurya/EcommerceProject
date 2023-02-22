@@ -11,5 +11,25 @@
     * mysql-connector-j
   * ### Languages
   ***
-  * Java
-  * Spring Boot
+    * Java
+    * Spring Boot
+ * ## Data Flow
+  * Inside we have created 
+    * Controller
+    ***
+     * Controller is having for every models dufferent - different
+       * UserController
+       * ProductController
+       * AddressController
+       * OrderController
+    * Services
+       * UserService
+       * ProductService
+       * AddressService
+       * OrderService
+    * Repository
+       * UserRepository
+       * ProductRepository
+       * AddressRepository
+       * OrderRepository
+    * Database Connection 
