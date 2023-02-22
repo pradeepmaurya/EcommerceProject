@@ -9,3 +9,6 @@
     * h2database
     * spring-boot-devtools
     * mysql-connector-j
+ * ### Languages
+  * Java
+  * Spring Boot
